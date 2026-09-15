@@ -1,0 +1,6 @@
+{
+  "name": "Water Park Tycoon",
+  "description": "A fun, colorful offline single-player water park tycoon game where you build pools, slides, attract visitors, and expand your tropical water park paradise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
